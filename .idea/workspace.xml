@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08135e93-4226-4895-93d2-fd10cc35beca" name="Changes" comment="FinalProject">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Zetsu4i &lt;79372809+zetsu4i@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uLKyVXbo1uU8pQanQ2xIBSEaWG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.lab4.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\lab4\accounts\static" />
+      <recent name="C:\lab4\accounts\templates" />
+      <recent name="C:\lab4\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab4" type="Python.DjangoServer" factoryName="Django server">
+      <module name="lab4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="lab4.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08135e93-4226-4895-93d2-fd10cc35beca" name="Changes" comment="" />
+      <created>1742022668310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742022668310</updated>
+      <workItem from="1742022669435" duration="3668000" />
+      <workItem from="1742049064171" duration="1157000" />
+      <workItem from="1742105609065" duration="1999000" />
+      <workItem from="1742113428266" duration="734000" />
+      <workItem from="1742178594764" duration="1384000" />
+      <workItem from="1742183904466" duration="2487000" />
+      <workItem from="1742187592090" duration="6124000" />
+      <workItem from="1742278217005" duration="2520000" />
+      <workItem from="1742557388153" duration="5673000" />
+      <workItem from="1742656478247" duration="3486000" />
+      <workItem from="1743059951101" duration="355000" />
+      <workItem from="1743392637164" duration="856000" />
+      <workItem from="1743394659815" duration="97000" />
+      <workItem from="1743480796396" duration="129000" />
+      <workItem from="1743484432008" duration="1498000" />
+      <workItem from="1743485959664" duration="628000" />
+      <workItem from="1743487876614" duration="2155000" />
+      <workItem from="1743491242356" duration="2463000" />
+      <workItem from="1743655207854" duration="2662000" />
+      <workItem from="1743937699710" duration="428000" />
+      <workItem from="1744085606175" duration="4300000" />
+      <workItem from="1744091663793" duration="2489000" />
+      <workItem from="1744171893914" duration="97000" />
+      <workItem from="1744378514934" duration="3312000" />
+      <workItem from="1744475460773" duration="1878000" />
+      <workItem from="1744693154239" duration="784000" />
+      <workItem from="1744695498013" duration="379000" />
+      <workItem from="1744697546571" duration="1585000" />
+      <workItem from="1745672664032" duration="62000" />
+      <workItem from="1745674903091" duration="1736000" />
+      <workItem from="1745676822936" duration="1377000" />
+    </task>
+    <task id="LOCAL-00001" summary="FinalProject">
+      <option name="closed" value="true" />
+      <created>1745675953380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745675953380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MyFinalProject" />
+    <MESSAGE value="New provider added (g4f/Provider/Chatai.py) (#2864)&#10;&#10;* Update __init__.py to include the new provider&#10;&#10;new provider Chatai&#10;&#10;* Create chatai.py&#10;&#10;* Rename chatai.py to Chatai.py&#10;&#10;* Resolve the conflict in __init__.py&#10;&#10;---------&#10;&#10;Co-authored-by: H Lohaus &lt;hlohaus@users.noreply.github.com&gt;" />
+    <MESSAGE value="FinalProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="FinalProject" />
+  </component>
+</project>
